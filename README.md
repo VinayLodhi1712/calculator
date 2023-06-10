@@ -10,4 +10,7 @@ CSS3
 
 JavaScript
 
+#Output-image
+
+![calc](https://github.com/VinayLodhi1712/calculator/assets/135756009/a83bd04a-aa5a-425f-bb2a-3a9c4a3298b9)
 Pull requests are welcome. So if you've got an idea of how to improve this code, I'll thank you for opening an issue to check that change that you want to make.
